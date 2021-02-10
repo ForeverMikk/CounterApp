@@ -1,0 +1,13 @@
+html, body {
+    color: white;
+    background: #21232A;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+button {
+    font-size: 1.3rem;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
